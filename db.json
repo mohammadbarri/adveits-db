@@ -1,0 +1,88 @@
+{
+  "card": [
+    {
+      "id": 1,
+      "text": "Codic – HTML Starter Template for Developer...",
+      "smtext": "Starter Templates",
+      "img": "/img/01_CodicHTML-590x295.jpg",
+      "largeText": "Codic is a fully-featured responsive Bootstrap based HTML5 starter page template. It is easy to use this starter template for any purpose – to create a design from scratch or recreate an existing project. Codic has built-in dependencies which help you a developing process."
+    },
+    {
+      "id": 2,
+      "text": "Sely – Personal Resume vCard React JS Template",
+      "smtext": "React JS Templates",
+      "img": "/img/02_SelyREACT_JS-590x295.jpg",
+      "largeText": "Sely is a fully-featured responsive Bootstrap based on React JS framework personal resume vCard template. It is easy to use this design. You can adapt it to any activity. There is a lot of space for the information and a design is a great decision if you want to present your activity on the internet in a modern way. This item is based on the React JS framework, so it is fully adaptable for any purpose."
+    },
+    {
+      "id": 3,
+      "text": "Inet – Personal Portfolio Figma Template ....",
+      "smtext": "Vue JS Templates",
+      "img": "/img/08_InetFIGMA-590x295.jpg",
+      "largeText": "It is easy to use this design, you can adapt Inet design for your personal portfolio site. There are a lot of space for information. This design is a great decision, if you want to create easy to use website for yourself and present your skills and business in the modern way."
+    },
+    {
+      "id": 4,
+      "text": "Chop – Barber Shop Vue JS Template developer ..",
+      "smtext": "React JS Templates",
+      "img": "/img/05_ChopWP-590x295.jpg",
+      "largeText": "Chop is a fully-featured responsive Bootstrap based on Vue JS framework barber shop template. It is easy to use this design. You can adapt it to any activity. There is a lot of space for the information and a design is a great decision if you want to present your activity on the internet in a modern way. This item is based on the Vue JS framework, so it is fully adaptable for any purpose."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "Jamil",
+      "txt": "I am building my own website with the oxer theme, and it is amazing The design is nice, well-built, and easy to work through. And if you have any questions or issue, thesupport team is very helpful and fast in resolving it."
+    },
+    {
+      "id": 2,
+      "name": "Danai",
+      "txt": "I am building my own website with the oxer theme, and it is amazing. The design is nice, well-built, and easy to work through. And if you have any questions or issue, the support team is very helpful and fast in resolving it."
+    },
+    {
+      "id": 3,
+      "name": "Tim",
+      "txt": "I am building my own website with the oxer theme, and it is amazing. The design is nice,well-built, and easy to work through. And if you have any questions or issue, the support team is very helpful and fast in resolving it."
+    },
+    {
+      "id": 4,
+      "name": "Natalia",
+      "txt": "I am building my own website with the oxer theme, and it is amazing. The design is nice,well-built, and easy to work through. And if you have any questions or issue, the support team is very helpful and fast in resolving it."
+    }
+  ],
+  "price-card": [
+    {
+      "id": 1,
+      "title": "LOW PRICING",
+      "txt": "We are offering IT and advertising items for affordable and customer-friendly prices."
+    },
+    {
+      "id": 2,
+      "title": "LOW PRICING",
+      "txt": "We are offering IT and advertising items for affordable and customer-friendly prices."
+    },
+    {
+      "id": 3,
+      "title": "LOW PRICING",
+      "txt": "We are offering IT and advertising items for affordable and customer-friendly prices."
+    },
+    {
+      "id": 4,
+      "title": "LOW PRICING",
+      "txt": "We are offering IT and advertising items for affordable and customer-friendly prices."
+    }
+  ],
+  "Login": [
+    {
+      "id": 1,
+      "email": "mohammad@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "8ozcNcXJ4O3cQljvb4FQ1",
+      "username": "mohammad@dsa",
+      "password": "adsas"
+    }
+  ]
+}
